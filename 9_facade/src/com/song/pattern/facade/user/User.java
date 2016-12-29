@@ -1,4 +1,6 @@
-package pattern.facade.demo.computer;
+package com.song.pattern.facade.user;
+
+import com.song.pattern.facade.computer.Computer;
 
 public class User {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package pattern.facade.demo.computer;
+package com.song.pattern.facade.computer;
 
 public class Computer {
 	private CPU cpu;
